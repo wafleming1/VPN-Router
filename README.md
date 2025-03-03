@@ -4,14 +4,17 @@
 
 <h2>Description</h2>
 
-<br />
+
 
 
 <h2>Languages and Utilities Used</h2>
+- Command Line Interface (CLI) <br/>
+- VPN <br/>
+- Secure Shell (SSH) <br/>
 
 
 <h2>Environments Used </h2>
-
+- Debian Linux
 
 <!--
 <h2>Program walk-through:</h2>
