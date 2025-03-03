@@ -1,6 +1,6 @@
 <h1>VPN Router</h1>
 
- ### [YouTube Demonstration]((https://youtu.be/biGIYhBZFfw)
+ ### [YouTube Demonstration](https://youtu.be/biGIYhBZFfw)
 
 <h2>Description</h2>
 
@@ -12,8 +12,7 @@
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> 
-- <b>Kali Linux</b> 
+
 <!--
 <h2>Program walk-through:</h2>
 
